@@ -1,0 +1,300 @@
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.ModificarPreguntas.resources
+C:\Users\cep.CEPNET0\source\repos\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Personatges.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Personatges.resources
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Personatges.resources
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Q\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\project\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\q2\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Q3\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Qlight1\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\rr\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\Qlight26\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\alex\Downloads\4Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.GestionAvatarForm.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.GestionAvatarForm.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\xgonz\Desktop\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\xgonz\Desktop\gitquizz\QLight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.GestionAvatarForm.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.GestionAvatarForm.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.GestionAvatarForm.resources
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\alex\Desktop\712qlight\5Qlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.GestionAvatarForm.resources
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\xgonz\Desktop\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CopyComplete
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe.config
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.exe
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\ProjecteGrup.pdb
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.CrearAdministradores.resources
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.GestionAvatarForm.resources
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.JuegoAdmin.resources
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdmin.resources
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.LoginAdmin.resources
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.MenuAdminBasico.resources
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.Properties.Resources.resources
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.GenerateResource.cache
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\alex\Downloads\fasefinalqlight\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
+C:\Users\cep.CEPNET0\Desktop\ENTREGA\Proyecto_expo\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\ENTREGA\Proyecto_expo\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.exe
+C:\Users\cep.CEPNET0\Desktop\ENTREGA\Proyecto_expo\GLight2\ProjecteGrup\ProjecteGrup\obj\Debug\ProjecteGrup.pdb
