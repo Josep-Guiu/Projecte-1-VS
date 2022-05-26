@@ -1,0 +1,71 @@
+[
+  {
+    "PreguntaTexto": "Quants àlbums d'estudi ha llançat Nirvana?",
+    "Respuestas": [
+      {
+        "Texto": "5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2",
+        "IsTrue": false
+      },
+      {
+        "Texto": "6",
+        "IsTrue": true
+      },
+      {
+        "Texto": "3",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Quin guitarrista de Guns n Roses interpreta el sol de guitarra a Sweet Child O' Mine?",
+    "Respuestas": [
+      {
+        "Texto": "Bar",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Tim",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Yggy",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Matthew",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "A quin cantant principal de la banda li atribueix la popularització del bussejar a l'escenari?",
+    "Respuestas": [
+      {
+        "Texto": "Frank Letterman",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Iggy Pop",
+        "IsTrue": true
+      },
+      {
+        "Texto": "James Taylor",
+        "IsTrue": false
+      },
+      {
+        "Texto": "John Dorie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "jguius",
+    "email": "jguius@cepnet.net",
+    "age": "27",
+    "password": "elpepe",
+    "pointsuser": [
+      {
+        "genero": "Rock",
+        "points": 100
+      },
+      {
+        "genero": "Heavy",
+        "points": 90
+      },
+      {
+        "genero": "Funk",
+        "points": 40
+      },
+      {
+        "genero": "Pop",
+        "points": 110
+      },
+      {
+        "genero": "Rap",
+        "points": 130
+      }
+    ]
+  }
+]

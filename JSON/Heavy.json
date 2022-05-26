@@ -1,0 +1,186 @@
+[
+  {
+    "PreguntaTexto": "¿Cómo se llama el fundador de Iron Maiden?",
+    "Respuestas": [
+      {
+        "Texto": "Nicko McBrain",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Adrian Smith",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Steve Harris",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Josh Mc'Ken",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "¿Qué banda pionera del Heavy metal tuvo como vocalista a David Coverdale?",
+    "Respuestas": [
+      {
+        "Texto": "Black Panter",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Led Zepelin",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Black Sabbath",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Deep Purple",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "¿Cuál fue la banda (no importa el género) que más conciertos ofreció en EEUU a lo largo de los años 90?",
+    "Respuestas": [
+      {
+        "Texto": "Nirvana",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Metallica",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Guns N' Roses",
+        "IsTrue": false
+      },
+      {
+        "Texto": "ACDC",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "¿Cuál fue el primer miembro original de Guns N' Roses en abandonar la formación?",
+    "Respuestas": [
+      {
+        "Texto": "Izzi Stradlin",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Slash",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Steven Adler",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Josephine Treth",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "¿Cómo se llamaba este cuarteto estadounidense antes de ser mundialmente conocido como 'Kiss'?",
+    "Respuestas": [
+      {
+        "Texto": "Albatross",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Budokan",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Wicked Lester",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Romper Stomper",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "¿Qué grupo inventó el doble bombo en la batería?",
+    "Respuestas": [
+      {
+        "Texto": "Iron Maiden",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Motorhead",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Judas Priest",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Albatross",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "¿Qué artista nacido en Aston (Reino Unido) es conocido como 'el príncipe de las tinieblas'?",
+    "Respuestas": [
+      {
+        "Texto": "Ozzy Osbourne",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Lemmy Kilmister",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Alice Cooper",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nicko McBrain",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "¿De qué país son originarios los hermanos 'Young' de AC/DC?",
+    "Respuestas": [
+      {
+        "Texto": "Escocia",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Australia",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Inglaterra",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dinamarca",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  }
+]

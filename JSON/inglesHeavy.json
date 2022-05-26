@@ -1,0 +1,698 @@
+[
+  {
+    "PreguntaTexto": "Who is the group responsible for the song most curta to the history of the metal?",
+    "Respuestas": [
+      {
+        "Texto": "Terrorizer",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Carcass",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bruta Truth",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Napalm Death",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who is going to compete for the participation of members of Faith No More, Death, Slayer, Grip-Inc and Kreator?",
+    "Respuestas": [
+      {
+        "Texto": "Bloodbath",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Probot",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Brujería",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Voodocult",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who drummer for the European Black Metall is a reconnected music video director?",
+    "Respuestas": [
+      {
+        "Texto": "Frost",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jonas Akerlund",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Gylve Fenriz Nagell",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ole Christian Ohman",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who is the name of the mascot of the Finnish group Children Of Bodom?",
+    "Respuestas": [
+      {
+        "Texto": "Crystar",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Violent Mind",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Roy",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Chaly",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who will be the protagonist of the documentary Heavy Metal In Baghdad?",
+    "Respuestas": [
+      {
+        "Texto": "Naser Mestahiri",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Acrassicauda",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Scarab",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Benevolent",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who did the Swedish cantava group Anders Fridén abans d'entrar a In Flames?",
+    "Respuestas": [
+      {
+        "Texto": "Gates Of Ishtar",
+        "IsTrue": false
+      },
+      {
+        "Texto": "At The Gates",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dark Tranquility",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Evocation",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who is the name of the crani humà amb what King Diamond used to sing in viu at the expense of the Mercyful Fate group?",
+    "Respuestas": [
+      {
+        "Texto": "Melissa",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Abigail",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Banshee",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Gypsy",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Fora d'Igor and Max Cavalera with Sepultura, there is an other important group of Brazil founded by Germans, who is the nom d'aquesta?",
+    "Respuestas": [
+      {
+        "Texto": "Torture",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Krisiun",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Sarcófago",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ratos de Porao",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Which Japanese group is considered to be an icon of the seu country and a pioneer of the Visual Kei movement?",
+    "Respuestas": [
+      {
+        "Texto": "X-Japan",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Loudness",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dir En Grey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Animetal",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "1994 is the premiere of the film Ace Ventura: Detectiu d'Animales who grouped va fer una petita appeared in this tape?",
+    "Respuestas": [
+      {
+        "Texto": "Obituary",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Monstrosty",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Incantation",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Cannibal Corpse",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who disc d'estudi de Sepultura will be gravat després Arise?",
+    "Respuestas": [
+      {
+        "Texto": "Roots",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Against",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chaos A.D",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Beneath the Remains",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Metallica tea a disc anomenat St Anger?",
+    "Respuestas": [
+      {
+        "Texto": "Si",
+        "IsTrue": true
+      },
+      {
+        "Texto": "No",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sí, pero és colaboratiu",
+        "IsTrue": false
+      },
+      {
+        "Texto": "No existeix",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who of the following albums belongs to the Warrior",
+    "Respuestas": [
+      {
+        "Texto": "Astro Creep",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Low",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Code of Life",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Vovin",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Whose origin is the Transmetal band?",
+    "Respuestas": [
+      {
+        "Texto": "USA",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Mexico",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Argentina",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Japon",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Who does not belong to the Overdose disc Scars?",
+    "Respuestas": [
+      {
+        "Texto": "Manipulated Reality",
+        "IsTrue": false
+      },
+      {
+        "Texto": "How To Pray",
+        "IsTrue": false
+      },
+      {
+        "Texto": "My Rage",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Straight To The Point",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "In whom will Pantera's Vulgar Display Of Power disc be released?",
+    "Respuestas": [
+      {
+        "Texto": "1989",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1990",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1992",
+        "IsTrue": true
+      },
+      {
+        "Texto": "1987",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "What is the name of Megadeth's record whose cover has babies hanging?",
+    "Respuestas": [
+      {
+        "Texto": "Youthanasia",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Peace Sells... But Who\\'s Buying",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Cryptic Writings",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Countdown To Extinction",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Does the U.S. Rev. Raptor album have a track called Fairy Tales Of Victory?",
+    "Respuestas": [
+      {
+        "Texto": "Yes",
+        "IsTrue": true
+      },
+      {
+        "Texto": "No",
+        "IsTrue": false
+      },
+      {
+        "Texto": "It's from another group",
+        "IsTrue": false
+      },
+      {
+        "Texto": "It's from a previous album",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "As the Moonspell record is called SIN/.....? (To complete)",
+    "Respuestas": [
+      {
+        "Texto": "Miedo",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Verguenza",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Pecado",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Dolor",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "What is the name of the latest album from Iced Earth?",
+    "Respuestas": [
+      {
+        "Texto": "The Dark Saga",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dystopia",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Burnt Offering",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Alive in Athens",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Which of these artists didn’t play a Metallica cover on the 2003 MTV Icon special?",
+    "Respuestas": [
+      {
+        "Texto": "Avril Lavigne",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Snoop Dogg",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Eminem",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Limp Bizkit",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "What song from “Hardwired… to Self-Destruct” is the music video showing a Black Metal band performing the song?",
+    "Respuestas": [
+      {
+        "Texto": "Dream No More",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Halo on Fire",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Am I Savage?",
+        "IsTrue": false
+      },
+      {
+        "Texto": "ManUNkind",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Which of these was not a single for "
+    "Load\"?\"",
+    ,
+    "Respuestas": [
+      {
+        "Texto": " Poor Twisted Me",
+        "IsTrue": true
+      },
+      {
+        "Texto": "King Nothing",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Mama Said",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hero of the Day",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "What is the second name of James Hetfield's second son?",
+    "Respuestas": [
+      {
+        "Texto": "Castor",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Virgil",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Cali",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Martin",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "For which song did Metallica win a Grammy in 2000?",
+    "Respuestas": [
+      {
+        "Texto": "Better Than You",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Whiskey in the Jar",
+        "IsTrue": true
+      },
+      {
+        "Texto": "I Disappear",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Turn the Page",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "In what county in Sweden did the accident that ended Cliff Burton's life happen?",
+    "Respuestas": [
+      {
+        "Texto": "Halland",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Blekinge",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Kronoberg",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Kalmar",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "What movie do scenes appear in the 1989 music video for "
+    "One\"?\"",
+    ,
+    "Respuestas": [
+      {
+        "Texto": "Full Metal Jacket",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ben Hur",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Johnny Got His Gun",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Commando",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "Which isn't a St. John's song. Anger?",
+    "Respuestas": [
+      {
+        "Texto": "Pumping Blood",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Shoot Me Again",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Unnamed Feeling",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Purify",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "What certification did the album "
+    "Metallica\" (Black Album) get in the United States?\"",
+    ,
+    "Respuestas": [
+      {
+        "Texto": "12x Platinum",
+        "IsTrue": false
+      },
+      {
+        "Texto": "14x Platinum",
+        "IsTrue": false
+      },
+      {
+        "Texto": "16x Platinum",
+        "IsTrue": true
+      },
+      {
+        "Texto": "18x Platinum",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  },
+  {
+    "PreguntaTexto": "What year did Ray Burton, Cliff's father, die?",
+    "Respuestas": [
+      {
+        "Texto": "1997",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2005",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2013",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2020",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Heavy"
+  }
+]

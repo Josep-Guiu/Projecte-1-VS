@@ -1,0 +1,692 @@
+[
+  {
+    "PreguntaTexto": "Michael Jackson va debutar amb el seu caracteristic pesseig lunar, ¿durant quina canço en 1983?",
+    "Respuestas": [
+      {
+        "Texto": "Billie Jean",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Bad",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Thriller",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Smooth Criminal",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "L'exit de la comedia de 1992 Wayne's World va ser un renaixament per quina cano del 1975?",
+    "Respuestas": [
+      {
+        "Texto": "Bohemian Rhapsody",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Ocean Drive",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Someone Like You",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Smooth Criminal",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina estrella dels 80 es reconeguda per Guinness World Records com la artista femenina mes venuda de tots els temps?",
+    "Respuestas": [
+      {
+        "Texto": "Whitney Houston",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beyoncé",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Madonna",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Lady Gaga",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "De quina famosa cantant es la canço I will always love you?",
+    "Respuestas": [
+      {
+        "Texto": "Mariah Carey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beyoncé",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Whitney Houston",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Ariadna Grande",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Mariah Carey va trigar 15 minuts en escriure:",
+    "Respuestas": [
+      {
+        "Texto": "Obsessed",
+        "IsTrue": false
+      },
+      {
+        "Texto": "All i want for christmas is you",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Fantasy",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Shake it off",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "En quin any va sortir el exit de Katy Perry 'I Kissed a Girl'?",
+    "Respuestas": [
+      {
+        "Texto": "2009",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2010",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2008",
+        "IsTrue": true
+      },
+      {
+        "Texto": "2007",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina cantant famosa ha guanyat un Oscar per la canço \"Shallow\"",
+    "Respuestas": [
+      {
+        "Texto": "Lady Gaga",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Miley Cyrus",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ariadna Grande",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Shakira",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "De quina cantant es la caço Crazy in love?",
+    "Respuestas": [
+      {
+        "Texto": "Madonna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beyoncé",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Rihanna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina cantant canta la canço Shake it off?",
+    "Respuestas": [
+      {
+        "Texto": "Maroon5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Shakira",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Taylor Swift",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jessie J",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quin es el nom artistic de Robyn Fenty?",
+    "Respuestas": [
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Selena Gómez",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rihanna",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Sia",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quants premis grammy te Taylor Swift?",
+    "Respuestas": [
+      {
+        "Texto": "5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "10",
+        "IsTrue": true
+      },
+      {
+        "Texto": "3",
+        "IsTrue": false
+      },
+      {
+        "Texto": "14",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina artista va escriure party in the USA de Miley Cyrus?",
+    "Respuestas": [
+      {
+        "Texto": "Pharrell Williams",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jessie J",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Julia Michaels",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sia",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "En quin any va treure Beyoncé el seu primer disc com a solista?",
+    "Respuestas": [
+      {
+        "Texto": "2001",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2002",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2003",
+        "IsTrue": true
+      },
+      {
+        "Texto": "2004",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina es la canço que ha durat mes temps en el #1 en las llistas d'exits d'Estats Units?\r\n",
+    "Respuestas": [
+      {
+        "Texto": "Don't Stop Believin'\" de Journey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Old Town Road\" de Lil Nas X",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Thinking Out Loud\" de Ed Sheeran",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Someone Like You\" de Adele",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina artista popular no ha guanyat mai un Grammy?",
+    "Respuestas": [
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rihanna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Justin Bieber",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Katy Perry",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quin d'aquests famosos NO ha guanyat el premi al millor artista revelacio en  els Grammy?",
+    "Respuestas": [
+      {
+        "Texto": "Kacey Musgraves",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Chance the Rapper",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sam Smith",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina va ser la canço de boda mes popular de 2019?",
+    "Respuestas": [
+      {
+        "Texto": "\"Marry You\" de Bruno Mars",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Perfect\" de Ed Sheeran",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Thinking Out Loud\" de Ed Sheeran",
+        "IsTrue": true
+      },
+      {
+        "Texto": "\"All of Me\" de John Legend",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quins son els cinc noms dels integrants de *NSYNC?",
+    "Respuestas": [
+      {
+        "Texto": "Justin, Jc, Joe, Max y Lance",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nick, Kevin, Brian, AJ y Howie",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Justin, Jc, Joe, Lance y Chris",
+        "IsTrue": true
+      },
+      {
+        "Texto": "¿Cinco? ¡Pero si eran cuatro!",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Com mes deia el primer disc en solitari de Robbie Williams despres d'abandonar la banda Take That?",
+    "Respuestas": [
+      {
+        "Texto": "Life Thru a Lens",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Escapology",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I’ve Been Expecting You",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Intensive Care",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Qunia famosa artista va donar nom a una canço de la banda Queen?",
+    "Respuestas": [
+      {
+        "Texto": "Lorde",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Lady Gaga",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Lana del Rey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "MØ",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Com es diu la col·laboracio musical que van dur a terme Shakira i Beyoncé?",
+    "Respuestas": [
+      {
+        "Texto": "Video Phone",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beautiful Liar",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Mine",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Feeling Myself",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quin va ser el segon senzill del segon disc de Britney Spears?",
+    "Respuestas": [
+      {
+        "Texto": "Oops I did it Again",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sometimes",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Toxic",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Lucky",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Com es diu la col·laboracio que van dur a terme Rihanna i David Bisbal al 2008?",
+    "Respuestas": [
+      {
+        "Texto": "Hate That I Love You",
+        "IsTrue": true
+      },
+      {
+        "Texto": "When I Look At You",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I Love the Way You Lie",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Without You",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quin es el disc mes venut en l'historia?",
+    "Respuestas": [
+      {
+        "Texto": "‘Abbey Road’ (Los Beatles)",
+        "IsTrue": false
+      },
+      {
+        "Texto": "‘The Wall’ (Pink Floyd)",
+        "IsTrue": false
+      },
+      {
+        "Texto": "‘Thriller’ (Michael Jackson)",
+        "IsTrue": true
+      },
+      {
+        "Texto": "‘Hotel California’ (Eagles)",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quin es l'ultim disc que Madonna va grabar junt amb la discografica Warner Music?",
+    "Respuestas": [
+      {
+        "Texto": "Confessions on a Dance Floor",
+        "IsTrue": false
+      },
+      {
+        "Texto": "American Life",
+        "IsTrue": false
+      },
+      {
+        "Texto": "MDNA",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hard Candy",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quin va ser el senzill que las Spice Girls van cantar junt a Luciano Pavarotti?",
+    "Respuestas": [
+      {
+        "Texto": "Viva Forever",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Say You’ll Be There",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Stop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Wannabe",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Quina artista te mes numeros 1 en la llista Billboard Hot 100 d'Estats Units?",
+    "Respuestas": [
+      {
+        "Texto": "Mariah Carey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Los Beatles",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Madonna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Elvis Presley",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "A partir de 1981, Duran Duran ha lençat, quants albums fins ara?",
+    "Respuestas": [
+      {
+        "Texto": "10",
+        "IsTrue": false
+      },
+      {
+        "Texto": "12",
+        "IsTrue": false
+      },
+      {
+        "Texto": "14",
+        "IsTrue": true
+      },
+      {
+        "Texto": "9",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "De qui es la canço de 'Hey Jude'?",
+    "Respuestas": [
+      {
+        "Texto": "Billy Idol",
+        "IsTrue": false
+      },
+      {
+        "Texto": "George Michael",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Beatles",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Black Sabbath",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Qui va escriure la canço 'Candle in the Wind'?",
+    "Respuestas": [
+      {
+        "Texto": "Elton John",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jimi Hendrix",
+        "IsTrue": false
+      },
+      {
+        "Texto": "George Orwell",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Rolling Stones",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "PreguntaTexto": "¿Qué banda tiene más premios Grammy en toda la historia?",
+    "Respuestas": [
+      {
+        "Texto": "U2",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Dixie Chicks",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Foo Fighters",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Metallica",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "¿En qué año lanzó Beyoncé su primer disco como solista?",
+    "Respuestas": [
+      {
+        "Texto": "2001",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2002",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2003",
+        "IsTrue": true
+      },
+      {
+        "Texto": "2004",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "¿Cuál fue el primer éxito de Ed Sheeran?",
+    "Respuestas": [
+      {
+        "Texto": "The A Team",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Lego House",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Small Pump",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Afire Love",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "¿Qué artista popular nunca ha ganado un Grammy?",
+    "Respuestas": [
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rihanna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Justin Bieber",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Katy Perry",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "¿Cuántos años tenía Lady Gaga cuando lanzó su primer éxito, \"Just Dance\"?",
+    "Respuestas": [
+      {
+        "Texto": "21",
+        "IsTrue": false
+      },
+      {
+        "Texto": "22",
+        "IsTrue": true
+      },
+      {
+        "Texto": "24",
+        "IsTrue": false
+      },
+      {
+        "Texto": "25",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Según Spotify, ¿cuál fue la canción de boda más popular de 2019?",
+    "Respuestas": [
+      {
+        "Texto": "Marry You - Bruno Mars",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Perfect - Ed Sheeran",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Thinking Out Loud - Ed Sheeran",
+        "IsTrue": true
+      },
+      {
+        "Texto": "All Of Me - John Legend",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "¿En qué película de Disney aparece el éxito de 1994 de Elton John 'Can you Feel the Love Tonight'",
+    "Respuestas": [
+      {
+        "Texto": "El rey León",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Toy Story",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Aladdín",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Mulan",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "¿A qué banda de 3 integrantes pertenecen 15 de los 00 álbumes más vendidos de la década del 4?",
+    "Respuestas": [
+      {
+        "Texto": "Maroon 5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Black Eyed Peas",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hombres G",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Coldplay",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Michael Jackson debutó con su característico paseo lunar, ¿durante qué canción en 1983?",
+    "Respuestas": [
+      {
+        "Texto": "Beat It",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Smooth Criminal",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Billie Jean",
+        "IsTrue": true
+      },
+      {
+        "Texto": "They Don't Care About Us",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Este baile llamado «la Macarena», sacudió al mundo desde 1996. ¿Recuerdas quién cantaba esta canción?",
+    "Respuestas": [
+      {
+        "Texto": "Los del Río",
+        "IsTrue": true
+      },
+      {
+        "Texto": "La Factoría ",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Los del Lago",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Calle 13",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  }
+]

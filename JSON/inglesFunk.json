@@ -1,0 +1,692 @@
+[
+  {
+    "PreguntaTexto": "Name the Atlanta band who released the album \"Good High\" on Bang Records in 1976.",
+    "Respuestas": [
+      {
+        "Texto": "Brick",
+        "IsTrue": true
+      },
+      {
+        "Texto": "The Meters",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Funk Brothers",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Funkadelic",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "One of the earliest examples of funk rock can be heard on the song \"Little Miss Lover\" by what guitar legend?",
+    "Respuestas": [
+      {
+        "Texto": "Jimi Hendrix",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Steve Cropper",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Leo Nocentelli",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nile Rodgers",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Go-Go began in the dance clubs of what East Coast city?",
+    "Respuestas": [
+      {
+        "Texto": "Atlanta",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Charlotte",
+        "IsTrue": false
+      },
+      {
+        "Texto": " Washington D.C.",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Baltimore",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "P-Funk is short for which of the following?",
+    "Respuestas": [
+      {
+        "Texto": "Parliament-Funkadelic",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Plure Funk",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Plainfield Funk",
+        "IsTrue": false
+      },
+      {
+        "Texto": "All of them",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "This group provided the rap lyrics to Afrika Bambaataa's \"Planet Rock\"",
+    "Respuestas": [
+      {
+        "Texto": "Soul Sonic Force",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Parliament",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ohio Players",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jamiroquai",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What is Bootsy Collins' real name?",
+    "Respuestas": [
+      {
+        "Texto": "David Collins",
+        "IsTrue": false
+      },
+      {
+        "Texto": "James Collins",
+        "IsTrue": false
+      },
+      {
+        "Texto": "William Collins",
+        "IsTrue": true
+      },
+      {
+        "Texto": "John Collins",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Which singer and bassist developed Go-Go?",
+    "Respuestas": [
+      {
+        "Texto": "Stevie Wonder",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chuck Brown",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Prince",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Duck Sauce",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Who was the leader and founder of Parliament and Funkadelic and considered the founder of P-Funk?",
+    "Respuestas": [
+      {
+        "Texto": "George Clinton",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jamiroquai",
+        "IsTrue": false
+      },
+      {
+        "Texto": "James Brown",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jeff Beck",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Who is generally given credit for being the first \"funk\" artist?",
+    "Respuestas": [
+      {
+        "Texto": "James Brown",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Syl Johnson",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chuck Brown",
+        "IsTrue": false
+      },
+      {
+        "Texto": "William Collins",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Which one of these groups sang \"Radiation Level\"?",
+    "Respuestas": [
+      {
+        "Texto": "Unlimited Touch",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dayton",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Fat Larry's Band",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sun",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Al-Naafiysh (The Soul), one of the most popular electro-funk singles, was recorded by this artist.",
+    "Respuestas": [
+      {
+        "Texto": "Gnarls Barkley",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hashim",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jamie Lidell",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sade",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": " This group's hits included \"Stay\", \"Hollywood\", and \"At Midnight (My Love Will Lift You Up)\". Who were they?",
+    "Respuestas": [
+      {
+        "Texto": "Rufus featuring Chaka Khan",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Incubus",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Meters",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Kool & the gang",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What song is given credit for being the first funk hit?",
+    "Respuestas": [
+      {
+        "Texto": "You Can Call It What You Want",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Fantastic Voyage",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Out Of Sight",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Outrageous",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "The group, Secret Weapon, did which one of these songs?",
+    "Respuestas": [
+      {
+        "Texto": "You Can Call It What You Want",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Funky Sensation",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I Hear Music in the Street",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Must Be the Music",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": " Which one of these bands sang the words to this song, \"Ain't no joke, they call it the long stroke\"?",
+    "Respuestas": [
+      {
+        "Texto": "Attitude",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Funk Brothers",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The BBQ Band",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The ADC Band",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Who has not been a guitar player for P-Funk?",
+    "Respuestas": [
+      {
+        "Texto": "Billy Bass",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jesse Johnson",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Eddie Hazel",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Garry Shider",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Which of the following groups was not part of the P-Funk Empire?",
+    "Respuestas": [
+      {
+        "Texto": "The Commodores",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Godmoma",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bootsy's Rubber Band",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Brides Of Funkenstein",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Which of the following rock acts incorporated funk riffs in their music?",
+    "Respuestas": [
+      {
+        "Texto": "The Yardbirds",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jimi Hendrix",
+        "IsTrue": false
+      },
+      {
+        "Texto": "David Bowie",
+        "IsTrue": false
+      },
+      {
+        "Texto": "All of them did",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Which one of these songs is NOT done by Cameo?",
+    "Respuestas": [
+      {
+        "Texto": "I Just Want to Be",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hangin' Downtown",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chase Me",
+        "IsTrue": true
+      },
+      {
+        "Texto": "It's Serious",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Who of the following was a member of LaBelle?",
+    "Respuestas": [
+      {
+        "Texto": "Jody Watley",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nona Hendryx",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Cheryl Lynn",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Teena Marie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "When did Jazz emerge?\r\n",
+    "Respuestas": [
+      {
+        "Texto": "In 1909\r\n",
+        "IsTrue": false
+      },
+      {
+        "Texto": "In the 30's",
+        "IsTrue": false
+      },
+      {
+        "Texto": "In the second half of the 19th century",
+        "IsTrue": true
+      },
+      {
+        "Texto": "In the 2's0",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Where does the term Jazz come from?",
+    "Respuestas": [
+      {
+        "Texto": "It was a word used by southern blacks in the Chicago slums that meant sexual pleasure or business.",
+        "IsTrue": true
+      },
+      {
+        "Texto": "It is the last name of one of the first jazz trumpeters",
+        "IsTrue": false
+      },
+      {
+        "Texto": "It is an abbreviation of the word: Yeah!",
+        "IsTrue": false
+      },
+      {
+        "Texto": "It is the neighborhood where one of the first jazz bands formed, composed of piano, drums, saxophone, trumpet and double bass.",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What was Charlie Parker's nickname?",
+    "Respuestas": [
+      {
+        "Texto": "\"Ball\" ",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Bear\" ",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Bird\"",
+        "IsTrue": true
+      },
+      {
+        "Texto": "\"Lion\" ",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What is bebop?",
+    "Respuestas": [
+      {
+        "Texto": "An accessory used by trumpeters to give a hollow sound to the trumpet",
+        "IsTrue": false
+      },
+      {
+        "Texto": "A style of jazz that developed in the 1940s",
+        "IsTrue": true
+      },
+      {
+        "Texto": "The way to call the tap when mixed with Jazz",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The stage name of a saxophonist",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Who is recognized by many as the best blues singer in history?",
+    "Respuestas": [
+      {
+        "Texto": "Nina Simone\r\n\r\n",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bessie Smith",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Etta James",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Peggy Lee",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What famous pianist played for Al Capone?",
+    "Respuestas": [
+      {
+        "Texto": "Thelenious Monk",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Art Tatum",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Fats Waller",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Ray Charles",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Where do these musical genres originate from? (jazz and blues)",
+    "Respuestas": [
+      {
+        "Texto": "America",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Europe",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Asia",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Africa",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What is the Third Stream?",
+    "Respuestas": [
+      {
+        "Texto": "A movement that arises from the 40s that approximates European cultured music",
+        "IsTrue": false
+      },
+      {
+        "Texto": "A movement that arises from the 50s that approximates European cultured music",
+        "IsTrue": true
+      },
+      {
+        "Texto": "A movement that arises from the 30s that approximates European cultured music",
+        "IsTrue": false
+      },
+      {
+        "Texto": "None of the above is correct",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What is the name of jazz bands?",
+    "Respuestas": [
+      {
+        "Texto": "\r\nJazz bands",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\r\nOrchestras",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Big Bands",
+        "IsTrue": true
+      },
+      {
+        "Texto": "\r\nOrchestral ensembles",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "What instrument was typical of the original rural blues",
+    "Respuestas": [
+      {
+        "Texto": "Piano",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Tumpet",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Banjo",
+        "IsTrue": true
+      },
+      {
+        "Texto": "\r\nBattery",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  }
+]

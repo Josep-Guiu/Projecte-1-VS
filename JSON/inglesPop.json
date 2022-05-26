@@ -1,0 +1,692 @@
+﻿[
+  {
+    "PreguntaTexto": "Michael Jackson debuted with his signature moonwalk, during what song in 1983?",
+    "Respuestas": [
+      {
+        "Texto": "Billie Jean",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Bad",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Thriller",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Smooth Criminal",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Which 1980s star is recognized by Guinness World Records as the best-selling female artist of all time?",
+    "Respuestas": [
+      {
+        "Texto": "Whitney Houston",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beyonce",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Madonna",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Lady Gaga",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "The 1992 comedy hit Wayne's World was a revival for which 1975 song?",
+    "Respuestas": [
+      {
+        "Texto": "Bohemian Rhapsody",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Ocean Drive",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Someone Like You",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Smooth Criminal",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What famous singer is the song I will always love you?",
+    "Respuestas": [
+      {
+        "Texto": "Mariah Carey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beyonc�",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Whitney Houston",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Ariadna Grande",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Mariah Carey took 15 minutes to write:",
+    "Respuestas": [
+      {
+        "Texto": "Obsessed",
+        "IsTrue": false
+      },
+      {
+        "Texto": "All i want for christmas is you",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Fantasy",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Shake it off",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "In what year did Katy Perry's first big hit 'I Kissed a Girl' come out?\r\n",
+    "Respuestas": [
+      {
+        "Texto": "2009",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2010",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2008",
+        "IsTrue": true
+      },
+      {
+        "Texto": "2007",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Which famous American singer has won an Oscar for the song \"Shallow\"?",
+    "Respuestas": [
+      {
+        "Texto": "Lady Gaga",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Miley Cyrus",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ariadna Grande",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Shakira",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What famous singer is the song Crazy in love?",
+    "Respuestas": [
+      {
+        "Texto": "Madonna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beyonce",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Rihanna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What singer is the song Shake it off?",
+    "Respuestas": [
+      {
+        "Texto": "Maroon5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Shakira",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Taylor Swift",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jessie J",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What is Robyn Fenty's stage name?",
+    "Respuestas": [
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Selena G�mez",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rihanna",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Sia",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "How many grammy awards does Taylor Swift have?",
+    "Respuestas": [
+      {
+        "Texto": "5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "10",
+        "IsTrue": true
+      },
+      {
+        "Texto": "3",
+        "IsTrue": false
+      },
+      {
+        "Texto": "14",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Which artist wrote Miley Cyrus's Party in the USA?",
+    "Respuestas": [
+      {
+        "Texto": "Pharrell Williams",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jessie J",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Julia Michaels",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sia",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What year did Beyoncé release her first solo album?",
+    "Respuestas": [
+      {
+        "Texto": "2001",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2002",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2003",
+        "IsTrue": true
+      },
+      {
+        "Texto": "2004",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What is the longest lasting song at # 1 on the U.S. charts?",
+    "Respuestas": [
+      {
+        "Texto": "Don't Stop Believin'\" de Journey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Old Town Road\" de Lil Nas X",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Thinking Out Loud\" de Ed Sheeran",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Someone Like You\" de Adele",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What popular artist has never won a Grammy?",
+    "Respuestas": [
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rihanna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Justin Bieber",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Katy Perry",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Which of these celebrities did NOT win the Best New Artist award at the Grammys?",
+    "Respuestas": [
+      {
+        "Texto": "Kacey Musgraves",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Chance the Rapper",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sam Smith",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dua Lipa",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What was the most popular wedding song of 2019?",
+    "Respuestas": [
+      {
+        "Texto": "\"Marry You\" de Bruno Mars",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Perfect\" de Ed Sheeran",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Thinking Out Loud\" de Ed Sheeran",
+        "IsTrue": true
+      },
+      {
+        "Texto": "\"All of Me\" de John Legend",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What are the five names of the members of * NSYNC?",
+    "Respuestas": [
+      {
+        "Texto": "Justin, Jc, Joe, Max y Lance",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nick, Kevin, Brian, AJ y Howie",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Justin, Jc, Joe, Lance y Chris",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Five? But there were four!",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What was Robbie Williams' first solo album called after leaving the band Take That?",
+    "Respuestas": [
+      {
+        "Texto": "Life Thru a Lens",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Escapology",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I've Been Expecting You",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Intensive Care",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What famous artist did a song by the band Queen give its name to?",
+    "Respuestas": [
+      {
+        "Texto": "Lorde",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Lady Gaga",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Lana del Rey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "M�",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What is the name of the musical collaboration between Shakira and Beyoncé?",
+    "Respuestas": [
+      {
+        "Texto": "Video Phone",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Beautiful Liar",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Mine",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Feeling Myself",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What was the second single from Britney Spears' second album?",
+    "Respuestas": [
+      {
+        "Texto": "Oops I did it Again",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sometimes",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Toxic",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Lucky",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What was the name of the collaboration between Rihanna and David Bisbal in 2008?",
+    "Respuestas": [
+      {
+        "Texto": "Hate That I Love You",
+        "IsTrue": true
+      },
+      {
+        "Texto": "When I Look At You",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I Love the Way You Lie",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Without You",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What is the best-selling album in history?",
+    "Respuestas": [
+      {
+        "Texto": "Abbey Road (Los Beatles)",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Wall (Pink Floyd)",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Thriller (Michael Jackson)",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Hotel California (Eagles)",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "\r\nWhat was the last album Madonna recorded with the Warner Music label?",
+    "Respuestas": [
+      {
+        "Texto": "Confessions on a Dance Floor",
+        "IsTrue": false
+      },
+      {
+        "Texto": "American Life",
+        "IsTrue": false
+      },
+      {
+        "Texto": "MDNA",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hard Candy",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "What was the single that the Spice Girls sang with Luciano Pavarotti?",
+    "Respuestas": [
+      {
+        "Texto": "Viva Forever",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Say You'll Be There",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Stop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Wannabe",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Which artist has the most number 1s on the US Billboard Hot 100 chart?",
+    "Respuestas": [
+      {
+        "Texto": "Mariah Carey",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Los Beatles",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Madonna",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Elvis Presley",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Since 1981, Duran Duran has released, how many albums to date?",
+    "Respuestas": [
+      {
+        "Texto": "10",
+        "IsTrue": false
+      },
+      {
+        "Texto": "12",
+        "IsTrue": false
+      },
+      {
+        "Texto": "14",
+        "IsTrue": true
+      },
+      {
+        "Texto": "9",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Who owns the song of 'Hey Jude'?",
+    "Respuestas": [
+      {
+        "Texto": "Billy Idol",
+        "IsTrue": false
+      },
+      {
+        "Texto": "George Michael",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Beatles",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Black Sabbath",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  },
+  {
+    "PreguntaTexto": "Who wrote the song 'Candle in the Wind'?",
+    "Respuestas": [
+      {
+        "Texto": "Elton John",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jimi Hendrix",
+        "IsTrue": false
+      },
+      {
+        "Texto": "George Orwell",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Rolling Stones",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Pop"
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\aerosmith.png",
+    "Nombre": "aerosmith",
+    "Gender": "Rock",
+    "PuntuacionMin": 26,
+    "PuntuacionMax": 50
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\doors.png",
+    "Nombre": "doors",
+    "Gender": "Rock",
+    "PuntuacionMin": 51,
+    "PuntuacionMax": 90
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\kiss.png",
+    "Nombre": "kiss",
+    "Gender": "Rock",
+    "PuntuacionMin": 91,
+    "PuntuacionMax": 120
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\queen.png",
+    "Nombre": "queen",
+    "Gender": "Rock",
+    "PuntuacionMin": 121,
+    "PuntuacionMax": 150
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\macmiller.png",
+    "Nombre": "macmiller",
+    "Gender": "Rap",
+    "PuntuacionMin": 0,
+    "PuntuacionMax": 25
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\snoopdog.png",
+    "Nombre": "snoopdog",
+    "Gender": "Rap",
+    "PuntuacionMin": 26,
+    "PuntuacionMax": 50
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\notoriousbig.png",
+    "Nombre": "notoriousbig",
+    "Gender": "Rap",
+    "PuntuacionMin": 51,
+    "PuntuacionMax": 90
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\kase o.png",
+    "Nombre": "kaseo",
+    "Gender": "Rap",
+    "PuntuacionMin": 91,
+    "PuntuacionMax": 120
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\eminem.png",
+    "Nombre": "eminem",
+    "Gender": "Rap",
+    "PuntuacionMin": 121,
+    "PuntuacionMax": 150
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\billieeilish.png",
+    "Nombre": "billieeilish",
+    "Gender": "Pop",
+    "PuntuacionMin": 0,
+    "PuntuacionMax": 25
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\blackedeyepeas.png",
+    "Nombre": "blackeyedpeas",
+    "Gender": "Pop",
+    "PuntuacionMin": 26,
+    "PuntuacionMax": 50
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\beyonce.png",
+    "Nombre": "beyonce",
+    "Gender": "Pop",
+    "PuntuacionMin": 51,
+    "PuntuacionMax": 90
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\onerepublic.png",
+    "Nombre": "onerepublic",
+    "Gender": "Pop",
+    "PuntuacionMin": 91,
+    "PuntuacionMax": 120
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\pink.png",
+    "Nombre": "pink",
+    "Gender": "Pop",
+    "PuntuacionMin": 121,
+    "PuntuacionMax": 150
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\koolandgang.png",
+    "Nombre": "koolandthegang",
+    "Gender": "Funk",
+    "PuntuacionMin": 0,
+    "PuntuacionMax": 25
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\funkestein.jpg",
+    "Nombre": "funkestein",
+    "Gender": "Funk",
+    "PuntuacionMin": 26,
+    "PuntuacionMax": 50
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\ohioplayers.png",
+    "Nombre": "ohioplayers",
+    "Gender": "Funk",
+    "PuntuacionMin": 51,
+    "PuntuacionMax": 90
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\parliament.jpg",
+    "Nombre": "parliament",
+    "Gender": "Funk",
+    "PuntuacionMin": 91,
+    "PuntuacionMax": 120
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\earthwindfire.jpg",
+    "Nombre": "earthwindfire",
+    "Gender": "Funk",
+    "PuntuacionMin": 121,
+    "PuntuacionMax": 150
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\acdc.png",
+    "Nombre": "acdc",
+    "Gender": "Heavy",
+    "PuntuacionMin": 0,
+    "PuntuacionMax": 25
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\ironmaiden.png",
+    "Nombre": "ironmaiden",
+    "Gender": "Heavy",
+    "PuntuacionMin": 26,
+    "PuntuacionMax": 50
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\blacksabbath.jpg",
+    "Nombre": "blacksabbath",
+    "Gender": "Heavy",
+    "PuntuacionMin": 51,
+    "PuntuacionMax": 90
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\ledzeppelin.png",
+    "Nombre": "ledzeppelin",
+    "Gender": "Heavy",
+    "PuntuacionMin": 91,
+    "PuntuacionMax": 120
+  },
+  {
+    "Ruta": "C:\\Users\\Josep Guiu\\OneDrive\\Escritorio\\712qlight\\5Qlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\mottorhead.jpg",
+    "Nombre": "mottorhead",
+    "Gender": "Heavy",
+    "PuntuacionMin": 121,
+    "PuntuacionMax": 150
+  },
+  {
+    "Ruta": "C:\\Users\\xgonz\\Desktop\\fasefinalqlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\redhotchillipepers.png",
+    "Nombre": "redhotchillipeppers",
+    "Gender": "Rock",
+    "PuntuacionMin": 0,
+    "PuntuacionMax": 25
+  },
+  {
+    "Ruta": "C:\\Users\\xgonz\\Desktop\\fasefinalqlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\nirvana.png",
+    "Nombre": "nirvana",
+    "Gender": "General",
+    "PuntuacionMin": 0,
+    "PuntuacionMax": 30
+  },
+  {
+    "Ruta": "C:\\Users\\xgonz\\Desktop\\fasefinalqlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\coldplay.png",
+    "Nombre": "coldplay",
+    "Gender": "General",
+    "PuntuacionMin": 31,
+    "PuntuacionMax": 60
+  },
+  {
+    "Ruta": "C:\\Users\\xgonz\\Desktop\\fasefinalqlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\pinkfloyd.png",
+    "Nombre": "pinkfloyd",
+    "Gender": "General",
+    "PuntuacionMin": 61,
+    "PuntuacionMax": 100
+  },
+  {
+    "Ruta": "C:\\Users\\xgonz\\Desktop\\fasefinalqlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\pinkfloyd.png",
+    "Nombre": "pinkfloyd",
+    "Gender": "General",
+    "PuntuacionMin": 101,
+    "PuntuacionMax": 300
+  },
+  {
+    "Ruta": "C:\\Users\\xgonz\\Desktop\\fasefinalqlight\\GLight2\\ProjecteGrup\\ProjecteGrup\\Resources\\pinkfloyd.png",
+    "Nombre": "pinkfloyd",
+    "Gender": "General",
+    "PuntuacionMin": 301,
+    "PuntuacionMax": 750
+  }
+
+]

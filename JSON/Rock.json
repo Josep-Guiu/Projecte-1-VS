@@ -1,0 +1,692 @@
+[
+  {
+    "PreguntaTexto": "¿Cuántos álbumes de estudio ha lanzado Nirvana?",
+    "Respuestas": [
+      {
+        "Texto": "5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2",
+        "IsTrue": false
+      },
+      {
+        "Texto": "6",
+        "IsTrue": true
+      },
+      {
+        "Texto": "3",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Qué guitarrista de Guns n Roses interpreta el solo de guitarra en «Sweet Child O ‘Mine»?",
+    "Respuestas": [
+      {
+        "Texto": "Bar",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Yggy",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Tim",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Matthew",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿A qué cantante principal de la banda se le atribuye la popularización del buceo en el escenario?",
+    "Respuestas": [
+      {
+        "Texto": "Frank letterman",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Iggy Pop",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jorge Taylor",
+        "IsTrue": false
+      },
+      {
+        "Texto": "John Dorie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Tres de estas personas son guitarristas:",
+    "Respuestas": [
+      {
+        "Texto": "Jeff Beck",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jimmy Page",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Eric Clapton",
+        "IsTrue": true
+      },
+      {
+        "Texto": "George Markk",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Qué diosa inspiró el logo de los Rolling Stones?",
+    "Respuestas": [
+      {
+        "Texto": "Pantea",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Kali.",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Freija",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hela",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Qué grabación de Pink Floyd se convirtió en el primer álbum de rock que se tocó en el espacio?",
+    "Respuestas": [
+      {
+        "Texto": "Rocket man",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Moonlight",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Viaje interestelar",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Delicado sonido del trueno",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "«Back In Black» es una canción de:\r\n",
+    "Respuestas": [
+      {
+        "Texto": "Pink Floyd",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Beattles",
+        "IsTrue": false
+      },
+      {
+        "Texto": "AC/DC",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Nirvana",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Cuántos bateristas han tocado para la famosa banda de AC / DC?",
+    "Respuestas": [
+      {
+        "Texto": "Más de 10",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Menos de 5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sólo uno",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Exactamente 15",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "The Dark Side Of The Moon es el disco Rock más vendido de la historia después de Thriller.",
+    "Respuestas": [
+      {
+        "Texto": "Si",
+        "IsTrue": true
+      },
+      {
+        "Texto": "No",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Este disco no existe",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Este disco es de Pop",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿De qué grupo es la canción The Dark Side of the Moon?",
+    "Respuestas": [
+      {
+        "Texto": "AC/DC",
+        "IsTrue": false
+      },
+      {
+        "Texto": "PinkFloyd",
+        "IsTrue": true
+      },
+      {
+        "Texto": "ZZTop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "LedZeppelin",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "(I can’t get no? Satisfaction es de:",
+    "Respuestas": [
+      {
+        "Texto": "LedZeplin",
+        "IsTrue": false
+      },
+      {
+        "Texto": "ZZTop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Rolling Stones",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Creedence Revival",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "\"I was made for lovin’ you\" es de",
+    "Respuestas": [
+      {
+        "Texto": "KISS",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Black Sabbath",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Pink Floyd",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Led Zeppelin",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Por qué echaron a Nirvana de su fiesta de lanzamiento?",
+    "Respuestas": [
+      {
+        "Texto": "Se pelearon para hacer un solo",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Se pelearon por la comida",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Se pelearon por la bebida de la fiesta",
+        "IsTrue": false
+      },
+      {
+        "Texto": "No es verdad",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Qué banda se creó primero?",
+    "Respuestas": [
+      {
+        "Texto": "The Doors",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Rolling Stones",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Beattles",
+        "IsTrue": true
+      },
+      {
+        "Texto": "The Who",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Qué baterista es conocido por haber metido explosivos en su bombo?",
+    "Respuestas": [
+      {
+        "Texto": "Keith Moon",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Nick Mason",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dave Gorhl",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ringo Starr",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿En qué año se formó Nirvana?",
+    "Respuestas": [
+      {
+        "Texto": "1989",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1990",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1988",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1987",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿En qué año se fue definitivamente John Frusciante de los Red Hot Chili Peppers?",
+    "Respuestas": [
+      {
+        "Texto": "2008",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2010",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2011",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2009",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿A quién le dicen 'La iguana del rock'?",
+    "Respuestas": [
+      {
+        "Texto": "Iggy Pop",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Alice Cooper",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Axl Rose",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Eddie Vedder",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Cómo se llama el disco de U2 en el que sale la canción Vertigo?",
+    "Respuestas": [
+      {
+        "Texto": "Vertigo",
+        "IsTrue": false
+      },
+      {
+        "Texto": "War",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The joshua tree",
+        "IsTrue": false
+      },
+      {
+        "Texto": "How to dismantle and Atomic Bomb",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Por qué se separaron The Beatles?",
+    "Respuestas": [
+      {
+        "Texto": "Yoko Ono",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Se murió su manager",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ninguna es correcta",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Se murió su manager y Yoko Ono",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Cuál fue el álbum debut de Queen?",
+    "Respuestas": [
+      {
+        "Texto": "Qeen",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jazz",
+        "IsTrue": false
+      },
+      {
+        "Texto": "A nigth at the Opera",
+        "IsTrue": false
+      },
+      {
+        "Texto": "News of the world",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Cuál de estas canciones NO fue escrita por Freddie?",
+    "Respuestas": [
+      {
+        "Texto": "Somebody to Lvoe",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Killer Queen",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I'm going Slightly Mad",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Show Must Go On",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Call me pertenece a Blondie",
+    "Respuestas": [
+      {
+        "Texto": "No, Call me es un album de ZZTop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "No, Call me es de LedZepelin",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sí, es de Blondie",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Sí, pero es un álbum",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Cuál es el verdadero nombre de Freddie Mercury?",
+    "Respuestas": [
+      {
+        "Texto": "David Gilmour",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Courteney Cox",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Farrokh Bulsara",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jhon Dorie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Cuántas veces los sellos discográficos han rechazado a Linkin Park?\r\n",
+    "Respuestas": [
+      {
+        "Texto": "Más de 10",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Más de 20",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Más de 30",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Más de 40",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Cuál fue el fotógrafo responsable por la icónica portada del disco Queen II?",
+    "Respuestas": [
+      {
+        "Texto": "Charles Peterson",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Mick Rock",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Pennie Smith",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bob Gruen",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿Quién es el único miembro de ZZ Top que no tiene barba?",
+    "Respuestas": [
+      {
+        "Texto": "El cantante",
+        "IsTrue": false
+      },
+      {
+        "Texto": "El guitarrista",
+        "IsTrue": false
+      },
+      {
+        "Texto": "El bajista",
+        "IsTrue": false
+      },
+      {
+        "Texto": "El batería",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "\r\nthumbs.gfycat.com\r\n¿A qué edad falleció Freddie Mercury?",
+    "Respuestas": [
+      {
+        "Texto": "38 años",
+        "IsTrue": false
+      },
+      {
+        "Texto": "45 años",
+        "IsTrue": true
+      },
+      {
+        "Texto": "49 años",
+        "IsTrue": false
+      },
+      {
+        "Texto": "51 años",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿De qué banda es el disco STICKY FINGERS?",
+    "Respuestas": [
+      {
+        "Texto": "The Clash",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Black Sabbath",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Rolling Stones",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Deep Purple",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "¿En qué banda tocó Eric Clapton?",
+    "Respuestas": [
+      {
+        "Texto": "The Kinks",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Monkees",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Yardbirds",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Simon & Garfunkel",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "PreguntaTexto": "¿Qué rapero tiene el récord guiness de mayor número de sílabas rapeadas en un minuto?",
+    "Respuestas": [
+      {
+        "Texto": "Chojin",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Kase O",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rapsusklei",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Abram",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál era el nombre original de SFDK?",
+    "Respuestas": [
+      {
+        "Texto": "Siempre Fuertes De Konciencia",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Straight From Da Kranny",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Siempre Fuera De Kasa",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Superando Fallos Duros Killo",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Qué disco de Tote King destaca por no tener ninguna colaboración?",
+    "Respuestas": [
+      {
+        "Texto": "Héroe",
+        "IsTrue": false
+      },
+      {
+        "Texto": "78",
+        "IsTrue": false
+      },
+      {
+        "Texto": "El lado oscuro de Ghandi",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Un tipo cualquiera",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Qué rapero de los siguientes ha sido odiado durante más tiempo?",
+    "Respuestas": [
+      {
+        "Texto": "Junior",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Porta",
+        "IsTrue": true
+      },
+      {
+        "Texto": "MC Dinero",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Tito MC",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál de estas canciones cita al inicio y al final el discurso de Charles Chaplin en El gran dictador?",
+    "Respuestas": [
+      {
+        "Texto": "Alas rotas - Xhelazz",
+        "IsTrue": false
+      },
+      {
+        "Texto": "El silencio de Dios - ZPU.",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nadir - Zenit",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Esclavos del destino - Nach",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Qué componente de A3Bandas ganó además la internacional de la Red Bull Batalla de los Gallos?",
+    "Respuestas": [
+      {
+        "Texto": "Rayden",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Lumier",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Mesh",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Arkano",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿En qué año lanzó Baghira su primer Bloody Halloween?",
+    "Respuestas": [
+      {
+        "Texto": "2011",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2009",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2012",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2010",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "En el videoclip ¿Quién se apunta? de Duo Kie, ¿qué están haciendo Locus y Nerviozzo?",
+    "Respuestas": [
+      {
+        "Texto": "Rapean en un descapotable rojo",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Luchan a muerte por sus vidas",
+        "IsTrue": false
+      },
+      {
+        "Texto": "No hacen nada",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Entran a disparos en BOA",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Quiénes son los integrantes de Arma Blanca?",
+    "Respuestas": [
+      {
+        "Texto": "Rapsusklei, Johann, Oscarasecas y Sharif",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dj Klean, Lhyon, Leski, Pozo",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dj Joaking, Dash, Madnass y Lom-C",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Dj Vieltan, Lone, Eneko, Gareta",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Quién de todos estos MCs NO es de la Comunidad de Madrid?",
+    "Respuestas": [
+      {
+        "Texto": "Dani Ro",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Frank-T",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ivan Nieto",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Zenit",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿En qué año empezó la Red Bull Batalla de los Gallos?",
+    "Respuestas": [
+      {
+        "Texto": "2007",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2005",
+        "IsTrue": true
+      },
+      {
+        "Texto": "2004",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2006",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál de los siguientes MC's NO ha sido campeón internacional?",
+    "Respuestas": [
+      {
+        "Texto": "Aczino",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Noult",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dtoke\",",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Arkano",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál es el país que más veces ha ganado la Red Bull Batalla de los Gallos?",
+    "Respuestas": [
+      {
+        "Texto": "México",
+        "IsTrue": false
+      },
+      {
+        "Texto": "España",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Argentina",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chile",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál de estos MC's Ganó la final en BDM contra Aczino?",
+    "Respuestas": [
+      {
+        "Texto": "Teorema",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Dominic",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Invert",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hander",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál de estos MC's usa como recurso principal las métricas?",
+    "Respuestas": [
+      {
+        "Texto": "Bta",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Zasko",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Klan",
+        "IsTrue": false
+      },
+      {
+        "Texto": "RC",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál de las siguientes competiciones de freestyle no existe?",
+    "Respuestas": [
+      {
+        "Texto": "Freerap battle",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Red Bull Batalla de los Gallos",
+        "IsTrue": false
+      },
+      {
+        "Texto": "El quinto escalón",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Batalla de maestros",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "Uno de estos raperos tiene la reputación de ladrón...",
+    "Respuestas": [
+      {
+        "Texto": "Deskarte",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Barón",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Mr. Ego",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Elekipo",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál de los siguientes Mc's hace doble tempo constantemente?",
+    "Respuestas": [
+      {
+        "Texto": "Radamanthys",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Eko",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Wolf",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jhon Dorie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Quién es Misionero?",
+    "Respuestas": [
+      {
+        "Texto": "Un speaker",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Un amigo de Invert",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Un jurado",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Freestyler que ganó la RBBDLG",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿En qué año empezó la Red Bull Batalla de los Gallos?",
+    "Respuestas": [
+      {
+        "Texto": "2005",
+        "IsTrue": true
+      },
+      {
+        "Texto": "2006",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2007",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2008",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "En 1989 se publicó el primer disco de rap en España ¿Cómo se llamó?",
+    "Respuestas": [
+      {
+        "Texto": "Madrid Hip Hop",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Mi turno",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rapin Madrid",
+        "IsTrue": false
+      },
+      {
+        "Texto": "C Madrid",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "Zatu y El Chojin compartieron un grupo. ¿Cómo se llamaba",
+    "Respuestas": [
+      {
+        "Texto": "Contra todos",
+        "IsTrue": false
+      },
+      {
+        "Texto": "995",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Mala juntera",
+        "IsTrue": false
+      },
+      {
+        "Texto": "599",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Quién fue el primer español que ganó la Red bull Batalla de los gallos?",
+    "Respuestas": [
+      {
+        "Texto": "Noult",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rayden",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Arkano",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Kase O",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Dónde se originó el rap?",
+    "Respuestas": [
+      {
+        "Texto": "España",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Estados Unidos",
+        "IsTrue": true
+      },
+      {
+        "Texto": "México",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Australia",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Dónde surgió el rap en España?",
+    "Respuestas": [
+      {
+        "Texto": "Madrid",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Málaga",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Barcelona",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sevilla",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Por qué surgió el rap?",
+    "Respuestas": [
+      {
+        "Texto": "Estilo musical en los barrios",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Lucha contra el sistema",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Recriminación al sistema",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Todas son correctas",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Cuál fué el primer rapero de la história?",
+    "Respuestas": [
+      {
+        "Texto": "Rapper's Delight",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Vanilla Ice",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Eric B",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Rakim",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿En qué época llegó el rap?",
+    "Respuestas": [
+      {
+        "Texto": "En los 80",
+        "IsTrue": true
+      },
+      {
+        "Texto": "En los 90",
+        "IsTrue": false
+      },
+      {
+        "Texto": "En los 70",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Después de los 90",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "¿Qué significan las siglas MC?",
+    "Respuestas": [
+      {
+        "Texto": "Maestro de Cultura",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Maestro de Ceremonia",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Maestro Casual",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Maestro Central",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  },
+  {
+    "PreguntaTexto": "El rap se caracteriza por",
+    "Respuestas": [
+      {
+        "Texto": "Las rimas",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Recitar sin cantar",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Recitar a mucha velocidad",
+        "IsTrue": false
+      },
+      {
+        "Texto": "La base musical",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rap"
+  }
+]

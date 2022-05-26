@@ -1,0 +1,692 @@
+[
+  {
+    "PreguntaTexto": "Anomena la banda d'Atlanta que va publicar l'√ lbum \"Good High\" a Bang Records el 1976.",
+    "Respuestas": [
+      {
+        "Texto": "Brick",
+        "IsTrue": true
+      },
+      {
+        "Texto": "The Meters",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Funk Brothers",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Funkadelic",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Un dels primers exemples de funk rock es pot escoltar a la can√ß√≥ \"Little Miss Lover\" de quina llegenda de la guitarra?",
+    "Respuestas": [
+      {
+        "Texto": "Jimi Hendrix",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Steve Cropper",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Leo Nocentelli",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nile Rodgers",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Go-Go va comen√ßar a les discoteques de quina ciutat de la costa est?",
+    "Respuestas": [
+      {
+        "Texto": "Atlanta",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Charlotte",
+        "IsTrue": false
+      },
+      {
+        "Texto": " Washington D.C.",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Baltimore",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "P-Funk √©s l'abreviatura de quin dels seg√ºents?",
+    "Respuestas": [
+      {
+        "Texto": "Parliament-Funkadelic",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Plure Funk",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Plainfield Funk",
+        "IsTrue": false
+      },
+      {
+        "Texto": "All of them",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Aquest grup va proporcionar la lletra de rap a \"Planet Rock\" d'Afrika Bambaataa",
+    "Respuestas": [
+      {
+        "Texto": "Soul Sonic Force",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Parliament",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ohio Players",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jamiroquai",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin √©s el nom real de Bootsy Collins?",
+    "Respuestas": [
+      {
+        "Texto": "David Collins",
+        "IsTrue": false
+      },
+      {
+        "Texto": "James Collins",
+        "IsTrue": false
+      },
+      {
+        "Texto": "William Collins",
+        "IsTrue": true
+      },
+      {
+        "Texto": "John Collins",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin cantant i baixista va desenvolupar Go-Go?",
+    "Respuestas": [
+      {
+        "Texto": "Stevie Wonder",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chuck Brown",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Prince",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Duck Sauce",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Qui va ser el l√≠der i fundador de Parliament i Funkadelic i considerat el fundador de P-Funk?",
+    "Respuestas": [
+      {
+        "Texto": "George Clinton",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jamiroquai",
+        "IsTrue": false
+      },
+      {
+        "Texto": "James Brown",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jeff Beck",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "En general, a qui se li atribueix el cr√®dit per ser el primer artista \"funk\"?",
+    "Respuestas": [
+      {
+        "Texto": "James Brown",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Syl Johnson",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chuck Brown",
+        "IsTrue": false
+      },
+      {
+        "Texto": "William Collins",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin d'aquests grups va cantar \"Radiation Level\"?",
+    "Respuestas": [
+      {
+        "Texto": "Unlimited Touch",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dayton",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Fat Larry's Band",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sun",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Al-Naafiysh (The Soul), un dels senzills electro-funk m√©s populars, va ser gravat per aquest artista.",
+    "Respuestas": [
+      {
+        "Texto": "Gnarls Barkley",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hashim",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jamie Lidell",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Sade",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Els √®xits d'aquest grup inclouen \"Stay\", \"Hollywood\" i \"At Midnight (My Love Will Lift You Up)\". Qui eren?",
+    "Respuestas": [
+      {
+        "Texto": "Rufus featuring Chaka Khan",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Incubus",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Meters",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Kool & the gang",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quina can√ß√≥ t√© el cr√®dit de ser el primer √®xit del funk?",
+    "Respuestas": [
+      {
+        "Texto": "You Can Call It What You Want",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Fantastic Voyage",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Out Of Sight",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Outrageous",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "El grup, Secret Weapon, va fer quina d'aquestes can√ßons?",
+    "Respuestas": [
+      {
+        "Texto": "You Can Call It What You Want",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Funky Sensation",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I Hear Music in the Street",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Must Be the Music",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quina d'aquestes bandes va cantar les paraules d'aquesta can√ß√≥, \"Ain't no joke, they called it the long stroke\"?",
+    "Respuestas": [
+      {
+        "Texto": "Attitude",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Funk Brothers",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The BBQ Band",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The ADC Band",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Qui no ha estat guitarrista de P-Funk?",
+    "Respuestas": [
+      {
+        "Texto": "Billy Bass",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jesse Johnson",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Eddie Hazel",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Garry Shider",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin dels seg√ºents grups no formava part de l'Imperi P-Funk?",
+    "Respuestas": [
+      {
+        "Texto": "The Commodores",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Godmoma",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bootsy's Rubber Band",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Brides Of Funkenstein",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quins dels seg√ºents grups de rock van incorporar riffs de funk a la seva m√∫sica?",
+    "Respuestas": [
+      {
+        "Texto": "The Yardbirds",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Jimi Hendrix",
+        "IsTrue": false
+      },
+      {
+        "Texto": "David Bowie",
+        "IsTrue": false
+      },
+      {
+        "Texto": "All of them did",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quina d'aquestes can√ßons NO est√  feta per Cameo?",
+    "Respuestas": [
+      {
+        "Texto": "I Just Want to Be",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hangin' Downtown",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Chase Me",
+        "IsTrue": true
+      },
+      {
+        "Texto": "It's Serious",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Qui dels seg√ºents era membre de LaBelle?",
+    "Respuestas": [
+      {
+        "Texto": "Jody Watley",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Nona Hendryx",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Cheryl Lynn",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Teena Marie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quan va apareixer el Jazz?\r\n",
+    "Respuestas": [
+      {
+        "Texto": "En 1909\r\n",
+        "IsTrue": false
+      },
+      {
+        "Texto": "En els anys 30",
+        "IsTrue": false
+      },
+      {
+        "Texto": "En la segona meitat del segle XIX",
+        "IsTrue": true
+      },
+      {
+        "Texto": "En els anys 20",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "D'on procedeix el terme Jazz?",
+    "Respuestas": [
+      {
+        "Texto": "Era una paraula utilitzada pels negres surenys als barris baixos de Chicago que significava plaer o negoci sexual",
+        "IsTrue": true
+      },
+      {
+        "Texto": "…s el cognom d¥un dels primers trompetistes del Jazz",
+        "IsTrue": false
+      },
+      {
+        "Texto": "…s una abreviaciÛ de la paraula: Yeah!",
+        "IsTrue": false
+      },
+      {
+        "Texto": "…s el barri on es va formar una de les primeres bandes de jazz composta per piano, bateria, saxÚfon, trompeta i contrabaix",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin era el sobrenom de Charlie Parker?",
+    "Respuestas": [
+      {
+        "Texto": "\"Ball\" (la bola)",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Bear\" (l'os)",
+        "IsTrue": false
+      },
+      {
+        "Texto": "\"Bird\" (l'ocell)",
+        "IsTrue": true
+      },
+      {
+        "Texto": "\"Lion\" (el lleo)",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "\r\nQuË Ès el bebop?",
+    "Respuestas": [
+      {
+        "Texto": "Un accessori que feien servir els trompetistes per donar un so buit a la trompeta",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Un estil del jazz que es desenvolupa a la dËcada dels quaranta",
+        "IsTrue": true
+      },
+      {
+        "Texto": "La manera de dir-li al claque quan es barrejava amb el Jazz",
+        "IsTrue": false
+      },
+      {
+        "Texto": "El nom artistic d'un saxofonista",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quina Ès la reconeguda per molts millor cantant de blues de la histÚria?",
+    "Respuestas": [
+      {
+        "Texto": "Nina Simone\r\n\r\n",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bessie Smith",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Etta James",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Peggy Lee",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin famÛs pianista va tocar per a Al Capone?",
+    "Respuestas": [
+      {
+        "Texto": "Thelenious Monk",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Art Tatum",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Fats Waller",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Ray Charles",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin instrument era tÌpic dels blues rurals originaris",
+    "Respuestas": [
+      {
+        "Texto": "Piano",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Trompeta",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Banjo",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Bateria",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "Quin nom reben les bandes de m˙sica de jazz?",
+    "Respuestas": [
+      {
+        "Texto": "Bandes de jazz",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Orquestres",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Big Bands",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Agrupacions orquestrals",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "D'on sÛn originaris aquests gËneres musicals? (jazz i blues)",
+    "Respuestas": [
+      {
+        "Texto": "America",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Europa",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Asia",
+        "IsTrue": false
+      },
+      {
+        "Texto": "A frica",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  },
+  {
+    "PreguntaTexto": "QuË Ès el Third Stream?",
+    "Respuestas": [
+      {
+        "Texto": "Un moviment que sorgeix a partir dels anys 40 que s'aproxima a la musica culta europea",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Un moviment que sorgeix a partir dels anys 50 que s'aproxima a la musica culta europea",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Un moviment que sorgeix a partir dels anys 30 que s'aproxima a la musica culta europea",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Cap de les anteriors es correcte",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Funk"
+  }
+]

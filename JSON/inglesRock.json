@@ -1,0 +1,692 @@
+[
+  {
+    "PreguntaTexto": "How many studio albums has Nirvana released?",
+    "Respuestas": [
+      {
+        "Texto": "5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2",
+        "IsTrue": false
+      },
+      {
+        "Texto": "6",
+        "IsTrue": true
+      },
+      {
+        "Texto": "3",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Which Guns n Roses guitarist plays the guitar solo on Sweet Child O Mine?",
+    "Respuestas": [
+      {
+        "Texto": "Bar",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Yggy",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Tim",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Matthew",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Which lead singer of the band is credited with popularizing stage diving?",
+    "Respuestas": [
+      {
+        "Texto": "Frank letterman",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Iggy Pop",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jorge Taylor",
+        "IsTrue": false
+      },
+      {
+        "Texto": "John Dorie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Three of these people are guitarists:",
+    "Respuestas": [
+      {
+        "Texto": "Jeff Beck",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jimmy Page",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Eric Clapton",
+        "IsTrue": true
+      },
+      {
+        "Texto": "George Markk",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Which goddess inspired the Rolling Stones logo?",
+    "Respuestas": [
+      {
+        "Texto": "Pantea",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Kali.",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Freija",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Hela",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Which Pink Floyd recording became the first rock album ever played in space?",
+    "Respuestas": [
+      {
+        "Texto": "Rocket man",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Moonlight",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Viaje interestelar",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Delicado sonido del trueno",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "How many times have record labels rejected Linkin Park?",
+    "Respuestas": [
+      {
+        "Texto": "M�s de 10",
+        "IsTrue": false
+      },
+      {
+        "Texto": "M�s de 20",
+        "IsTrue": false
+      },
+      {
+        "Texto": "M�s de 30",
+        "IsTrue": false
+      },
+      {
+        "Texto": "M�s de 40",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "How many drummers have played for the famous AC / DC band?",
+    "Respuestas": [
+      {
+        "Texto": "More than 10",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Less than 5",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Only one",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Exactly 15",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "The Dark Side Of The Moon It is the best-selling Rock album in history after Thriller",
+    "Respuestas": [
+      {
+        "Texto": "Yes",
+        "IsTrue": true
+      },
+      {
+        "Texto": "No",
+        "IsTrue": false
+      },
+      {
+        "Texto": "This disk does not exist",
+        "IsTrue": false
+      },
+      {
+        "Texto": "This album is from Pop",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Who is the only ZZ Top member who doesn't have a beard?",
+    "Respuestas": [
+      {
+        "Texto": "The singer",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The guitarist",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The bassist",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The battery",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Call belongs to Blondie",
+    "Respuestas": [
+      {
+        "Texto": "No, Call me it's a ZZTop album",
+        "IsTrue": false
+      },
+      {
+        "Texto": "No, Call me is from LedZepelin",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Yes it's from Blondie",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Yes, but it's an album",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Why was Nirvana kicked out of their launch party?",
+    "Respuestas": [
+      {
+        "Texto": "They fought to make a solo",
+        "IsTrue": false
+      },
+      {
+        "Texto": "They fought over food",
+        "IsTrue": true
+      },
+      {
+        "Texto": "They fought over the party drink",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Is not true",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "What is Freddie Mercury's real name?",
+    "Respuestas": [
+      {
+        "Texto": "David Gilmour",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Courteney Cox",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Farrokh Bulsara",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jhon Dorie",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Which band was created first?",
+    "Respuestas": [
+      {
+        "Texto": "The Doors",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Rolling Stones",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Beattles",
+        "IsTrue": true
+      },
+      {
+        "Texto": "The Who",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Which drummer is known to have put explosives in his kick drum?",
+    "Respuestas": [
+      {
+        "Texto": "Keith Moon",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Nick Mason",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Dave Gorhl",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Ringo Starr",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Facil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "In what year was Nirvana formed?",
+    "Respuestas": [
+      {
+        "Texto": "1989",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1990",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1988",
+        "IsTrue": false
+      },
+      {
+        "Texto": "1987",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "What year did John Frusciante leave the Red Hot Chili Peppers for good?",
+    "Respuestas": [
+      {
+        "Texto": "2008",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2010",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2011",
+        "IsTrue": false
+      },
+      {
+        "Texto": "2009",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Who do they call The rock iguana?",
+    "Respuestas": [
+      {
+        "Texto": "Iggy Pop",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Alice Cooper",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Axl Rose",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Eddie Vedder",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "What is the name of the U2 album on which the song Vertigo comes out?",
+    "Respuestas": [
+      {
+        "Texto": "Vertigo",
+        "IsTrue": false
+      },
+      {
+        "Texto": "War",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The joshua tree",
+        "IsTrue": false
+      },
+      {
+        "Texto": "How to dismantle and Atomic Bomb",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Why did The Beatles split up?",
+    "Respuestas": [
+      {
+        "Texto": "Yoko Ono",
+        "IsTrue": false
+      },
+      {
+        "Texto": "His manager died",
+        "IsTrue": false
+      },
+      {
+        "Texto": "None is correct",
+        "IsTrue": false
+      },
+      {
+        "Texto": "His manager and Yoko Ono died",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "When did John Lennon die?",
+    "Respuestas": [
+      {
+        "Texto": "8/12/1980",
+        "IsTrue": true
+      },
+      {
+        "Texto": "8/12/1981",
+        "IsTrue": false
+      },
+      {
+        "Texto": "10/12/1980",
+        "IsTrue": false
+      },
+      {
+        "Texto": "12/12/1980",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "What was Queen's debut album?",
+    "Respuestas": [
+      {
+        "Texto": "Qeen",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Jazz",
+        "IsTrue": false
+      },
+      {
+        "Texto": "A nigth at the Opera",
+        "IsTrue": false
+      },
+      {
+        "Texto": "News of the world",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Which of these songs was NOT written by Freddie?",
+    "Respuestas": [
+      {
+        "Texto": "Somebody to Lvoe",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Killer Queen",
+        "IsTrue": false
+      },
+      {
+        "Texto": "I'm going Slightly Mad",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Show Must Go On",
+        "IsTrue": true
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Who was the photographer responsible for the iconic Queen II album cover?",
+    "Respuestas": [
+      {
+        "Texto": "Charles Peterson",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Mick Rock",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Pennie Smith",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bob Gruen",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "At what age did Freddie Mercury die?",
+    "Respuestas": [
+      {
+        "Texto": "38 years",
+        "IsTrue": false
+      },
+      {
+        "Texto": "45 years",
+        "IsTrue": true
+      },
+      {
+        "Texto": "49 years",
+        "IsTrue": false
+      },
+      {
+        "Texto": "51 years",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Back In Black is a song by:",
+    "Respuestas": [
+      {
+        "Texto": "Pink Floyd",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Beattles",
+        "IsTrue": false
+      },
+      {
+        "Texto": "AC/DC",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Nirvana",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Medio",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "What group is the song The Dark Side of the Moon from?",
+    "Respuestas": [
+      {
+        "Texto": "AC/DC",
+        "IsTrue": false
+      },
+      {
+        "Texto": "PinkFloyd",
+        "IsTrue": true
+      },
+      {
+        "Texto": "ZZTop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "LedZeppelin",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "I cant get no? Satisfaction, it is:",
+    "Respuestas": [
+      {
+        "Texto": "LedZeplin",
+        "IsTrue": false
+      },
+      {
+        "Texto": "ZZTop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "The Rolling Stones",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Creedence Revival",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "Who wrote the Eric Clapton hit I Shot The Sheriff?\r\n",
+    "Respuestas": [
+      {
+        "Texto": "Eric Clapton",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Bob Marley",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Iggy Pop",
+        "IsTrue": false
+      },
+      {
+        "Texto": "ABBA",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  },
+  {
+    "PreguntaTexto": "\"I was made for lovin you\" it is",
+    "Respuestas": [
+      {
+        "Texto": "KISS",
+        "IsTrue": true
+      },
+      {
+        "Texto": "Black Sabbath",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Pink Floyd",
+        "IsTrue": false
+      },
+      {
+        "Texto": "Led Zeppelin",
+        "IsTrue": false
+      }
+    ],
+    "Dificult": "Dificil",
+    "Gender": "Rock"
+  }
+]
